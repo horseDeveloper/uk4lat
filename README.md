@@ -1,5 +1,15 @@
-# uk4lat
-Ukrainian phonetic layout for latin keyboard
+# uk4lat showcase
+![Purple line](assets/imgs-for-docs/svg--900x05--c--ff5975.svg)
+## Non-phonetic Microsoft layouts
+| base layer | altGr layer | base layer | altGr layer |
+|---|---|---|---|
+| ![MicroSoft Ukrainian layout base layer](assets/images/uk■kb-0.png) | ![MicroSoft Ukrainian layout AltGr layer](assets/images/uk■kb-altGr.png) | ![MicroSoft Ukrainian (Enhanced) layout base layer](assets/images/uk-en■kb-0.png) | ![MicroSoft Ukrainian (Enhanced) layout AltGr layer](assets/images/uk-en■kb-altGr.png) |
+
+## uk4lat phonetic layouts
+| base layer | altGr layer |
+|---|---|
+| ![uk4lat1 layout base layer](assets/images/v1■kb-0.png) | ![uk4lat1 layout AltGr layer](assets/images/v1■kb-altGr.png) |
+| ![uk4lat2 layout base layer](assets/images/v2■kb-0.png) | ![uk4lat2 layout AltGr layer](assets/images/v2■kb-altGr.png) |
 
 # How to install uk4lat
 ![Purple line](assets/imgs-for-docs/svg--900x05--c--ff5975.svg)
