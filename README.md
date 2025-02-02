@@ -11,6 +11,11 @@
 | ![uk4lat1 layout base layer](assets/images/v1■kb-0.png) | ![uk4lat1 layout AltGr layer](assets/images/v1■kb-altGr.png) |
 | ![uk4lat2 layout base layer](assets/images/v2■kb-0.png) | ![uk4lat2 layout AltGr layer](assets/images/v2■kb-altGr.png) |
 
+Legend:
+* 🟥 differences between uk4lat1 & uk4lat2
+* 🟨 characters that can be typed in 2 different ways. 1 in base layer, 1 in altGr layer
+* 🟩 characters that can be typed in 2 different ways, both in altGr layer
+
 # How to install uk4lat
 ![Purple line](assets/imgs-for-docs/svg--900x05--c--ff5975.svg)
 ## Install using precompiled files. 
